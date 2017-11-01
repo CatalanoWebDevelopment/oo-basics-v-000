@@ -1,4 +1,4 @@
-class Shoe(brand)
+class Shoe
 
   attr_reader :brand
 
